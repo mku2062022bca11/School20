@@ -1,0 +1,36 @@
+HOME PAGE CONTENT
+
+Hero Section:
+- Main Title: "OB365 School School"
+- Subtitle: "Shaping Tomorrow's Leaders Today"
+- Description: "Experience the future of education with our innovative CBSE curriculum, cutting-edge technology, and global perspective that prepares students for success in an interconnected world."
+
+Statistics Carousel:
+- 10+ Countries Represented
+- 3 State-of-the-Art Campuses  
+- 5000+ Successful Alumni
+- 25+ Years of Excellence
+
+Why Choose EverRise Features:
+1. CBSE Excellence - Comprehensive curriculum aligned with global standards and innovative teaching methodologies
+2. Smart Technology - AI-powered learning platforms, VR labs, and digital classrooms for immersive education
+3. Global Perspective - International exposure, cultural exchange programs, and multilingual education
+4. Holistic Development - Focus on academic excellence, character building, and life skills development
+5. Award-Winning Faculty - Highly qualified educators with international teaching experience and credentials
+6. Innovation Hub - State-of-the-art facilities including robotics labs, maker spaces, and research centers
+
+Principal's Messages:
+- "Welcome to the future of education at OB365 School!"
+- "Where innovation meets tradition in learning."
+- "Empowering minds for a sustainable tomorrow."
+- "Join our global community of learners and leaders."
+
+Trust Badges:
+- CBSE Affiliated
+- ISO 9001:2015
+- Green School Certified
+- STEM Excellence Award
+- Best International School
+- Digital Innovation Award
+- Excellence in Education
+- Future Ready School
